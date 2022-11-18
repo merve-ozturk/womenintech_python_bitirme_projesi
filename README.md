@@ -25,7 +25,8 @@
 
 **4. En fazla aşılı insan sayısına göre ülkeler**
 
-![asisayisi](https://user-images.githubusercontent.com/109991927/202634129-2442ae86-2a76-4b6c-b497-785127cbef0e.png)
+![asisayisi](https://user-images.githubusercontent.com/109991927/202801617-7db87d56-f905-4d37-b2aa-d37324ed790c.png)
+
 
 **5. En fazla yatak sayısına sahip ülkeler**
 
