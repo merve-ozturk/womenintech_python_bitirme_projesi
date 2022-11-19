@@ -4,6 +4,27 @@
 
 ![covid19](https://user-images.githubusercontent.com/109991927/202628990-b7584ee3-aef8-47b8-a657-efa72b11095a.png)
 
+## Veriseti Hakkında Bilgiler
+
+* Verisetinde toplam **232799** satır, **67** sütun bulunmaktadır.
+* Verisetinde ülkelere ait aşılama sayısı, günlük vaka sayısı, ölüm sayısı vb. bilgiler yer almaktadır.
+* Verisetinde 67 sütun içerisinden seçilen sütun isimleri ve açıklamaları:
+* **"continent"** → kıta isimleri
+* **"location"** → ülke isimleri
+* **"date"** → tarih
+* **"total_cases"** → toplam vaka sayısı
+* **"new_cases"** → yeni vaka sayısı
+* **"total_cases_per_million"** → milyonda toplam vaka sayısı
+* **"total_deaths_per_million"** → milyonda toplam ölüm sayısı
+* **"total_deaths"** → toplam ölüm sayısı
+* **"new_test"** → yeni test sayısı
+* **"people_vaccinated"** → aşılanmış insan sayısı
+* **"gdp_per_capita"** → kişi başına düşen milli gelir
+* **"hospital_beds_per_thousand"** → binde hastane yatağı sayısı
+* **"total_deaths"** → toplam ölüm sayısı
+* **"population"** → nüfus
+
+
 ## Kullanılan Kütüphaneler
 * Numpy
 * Pandas
