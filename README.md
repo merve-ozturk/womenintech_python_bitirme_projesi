@@ -49,6 +49,6 @@
 ![asisayisi](https://user-images.githubusercontent.com/109991927/202801617-7db87d56-f905-4d37-b2aa-d37324ed790c.png)
 
 
-**5. En fazla hastane yatak sayısına sahip ülkeler**
+**5. En fazla hastane yatağı sayısına sahip ülkeler**
 
 ![beddata](https://user-images.githubusercontent.com/109991927/202776022-bb8f93f5-f134-4f32-9005-d1181edbf34c.png)
